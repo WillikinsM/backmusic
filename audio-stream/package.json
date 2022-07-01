@@ -1,0 +1,12 @@
+{
+  "name": "audio-stream",
+  "version": "1.0.0",
+  "description": "streaming of music",
+  "main": "index.js",
+  "author": "Willikins Abreu",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
